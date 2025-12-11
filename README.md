@@ -1,1 +1,1 @@
-#In terminal run ./run.sh for linux 
+# In terminal run ./run.sh for linux 
